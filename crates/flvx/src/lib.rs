@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: © 2022 The Flvx Authors <>
+ * SPDX-FileCopyrightText: © 2022 The Flvx Authors <https://github.com/kyper-io/flvx/blob/93b71a116950410b2c86dcc6efdd0031a2f79f84/AUTHORS>
  *
  * SPDX-License-Identifier: Apache-2.0 OR MIT
  */
