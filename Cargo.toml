@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: © 2022 The Flvx Authors <>
+#
+# SPDX-License-Identifier: Apache-2.0 OR MIT
+
+[workspace]
+members = ["crates/*"]
