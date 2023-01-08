@@ -6,8 +6,6 @@ SPDX-License-Identifier: Apache-2.0 OR MIT
 
 # Kyper / Flvx
 
-Coming soon.
-
 ## Copyright
 
 Copyrights in the Flvx project are retained by their contributors. No copyright
